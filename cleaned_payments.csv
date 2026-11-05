@@ -1,0 +1,4 @@
+id,amount,currency,failure_message,ingestion_date
+ch_3UXiWjDuhlIJyqDo1TvzhFGh,1500,USD,"the card couldn't be processed. try the payment again. if it still fails, contact your card issuer.",2026-11-03
+ch_3UXiWUDuhlIJyqDo1JKnbiIj,1500,USD,"the card couldn't be processed. try the payment again. if it still fails, contact your card issuer.",2026-11-03
+ch_3UXiVdDuhlIJyqDo0RrVGaS3,1000,USD,your card has expired.,2026-11-03

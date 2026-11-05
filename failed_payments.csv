@@ -1,0 +1,4 @@
+id,amount,currency,failure_message
+ch_3UXiWjDuhlIJyqDo1TvzhFGh,1500,USD,"The card couldn't be processed. Try the payment again. If it still fails, contact your card issuer."
+ch_3UXiWUDuhlIJyqDo1JKnbiIj,1500,USD,"The card couldn't be processed. Try the payment again. If it still fails, contact your card issuer."
+ch_3UXiVdDuhlIJyqDo0RrVGaS3,1000,USD,Your card has expired.
