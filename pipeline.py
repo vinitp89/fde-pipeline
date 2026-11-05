@@ -114,7 +114,7 @@ if __name__ == "__main__":
         clean_df = transform_data(raw_df)
         load_to_postgres(clean_df, DB_URL)
         
-        print("\nLive linked pipeline executed!")
+        print("\nPipeline executed successfully! [Version 2.0 - CI/CD Active]")
         
     except Exception as e:
         print(f"\nPipeline Failed: {e}")
